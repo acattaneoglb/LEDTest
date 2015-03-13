@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LED Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="blink_the_led">Blink that LED!</string>
+    <string name="white">White</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="yellow">Yellow</string>
+    <string name="magenta">Magenta</string>
+    <string name="cyan">Cyan</string>
+    <string name="yellow_nexus">Forced yellow in the Nexus I have here</string>
+    <string name="message_off_after_tap">&lt;- Turn off the screen after tapping</string>
+</resources>
